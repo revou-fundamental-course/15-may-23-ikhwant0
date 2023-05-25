@@ -1,0 +1,110 @@
+body {
+    background-color: rgba(128, 128, 128, 0.219);
+}
+img {
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+h3 {
+    text-align: center;
+}
+header {
+    background-color: rgb(78, 194, 233);
+    text-align: center;
+    padding: 20px 20px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.title {
+    font-family: 'Amaranth', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: xx-large;
+    color: white;
+    font-style: italic;
+}
+.subtitle {
+    font-family: 'Amaranth', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color: grey;
+    font-size: large;
+}
+input {
+    width: 85%;
+    box-sizing: border-box;
+    padding: 5px;
+    display: block;
+    margin: auto;
+}
+.container {
+  margin: auto;
+  width: 700px;
+  height: 1057px;
+  background-color: white;
+  padding: 25px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+}
+.tengah {
+    text-align: center;
+}
+.tengah1 {
+    background-color: rgb(22, 149, 192);
+    padding: 20px 20px;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+#tengah2 {
+    text-align: center;
+    color: rgb(22, 149, 192)
+}
+#tengah3 {
+    text-align: center;
+    background-color: rgb(22, 149, 192);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+h2 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+#button {
+    margin: auto;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: rgb(22, 149, 192);
+    width: 68px;
+}
+#button1 {
+    display: block;
+    float: right;
+    background-color: orange;
+    width: 68px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+a {
+    color: rgb(22, 149, 192);
+    text-decoration: none;
+}
+.kasiborder {
+    border: 2px solid rgb(22, 149, 192);
+    padding: 25px;
+    height: 685px;
+}
+hr {
+    width: calc(100% + 48px);
+    left: -25px;
+    position: relative;
+    border:1px solid rgb(22, 149, 192);
+}
+main {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
